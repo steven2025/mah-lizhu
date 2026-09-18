@@ -37,7 +37,7 @@ const descriptions = {
 const templates = {
   1: `
     <div class="form-grid">
-      <label>项目名称<input name="projectName" value="启明一号 MAH 项目" /></label>
+      <label>项目名称<input name="projectName" value="骊珠一号 MAH 项目" /></label>
       <label>MAH 项目类型<select name="mahType"><option>化学药品</option><option>生物制品</option><option>中药</option></select></label>
       <label>投资总额（元）<input name="investment" value="100,000,000" /></label>
       <label>项目周期（月）<input name="duration" value="36" /></label>
